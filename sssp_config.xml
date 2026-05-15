@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSSP>
+    <Widget>
+        <WidgetID>CustomApp</WidgetID>
+        <WidgetName>MyEPaperApp</WidgetName>
+        <StartURL>https://redfood.github.io/test_epaper_app/index.html</StartURL>
+    </Widget>
+</SSSP>
